@@ -1,2 +1,2 @@
-# Google- Introduction To GitHub
+# Google - Introduction To GitHub
 A gentle introduction to GitHub
